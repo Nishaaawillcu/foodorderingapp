@@ -20,7 +20,7 @@ public class FileHandler {
             }
         } catch (FileNotFoundException e) {
             System.out.println("User file not found, creating a new one.");
-            writeUsers(users);  // Create an empty file if not found 7777777
+            writeUsers(users);  // Create an empty file if not found 
         } catch (IOException e) {
             e.printStackTrace();
         }
