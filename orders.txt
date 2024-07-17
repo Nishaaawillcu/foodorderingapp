@@ -1,0 +1,3 @@
+
+customer1,4,pasta,250.0,C:\Users\HP\java\images\pasta.png;250.0
+customer1,4,pasta,250.0,C:\Users\HP\java\images\pasta.png;3,Burger,190.0,C:\Users\HP\java\images\burger.png;440.0

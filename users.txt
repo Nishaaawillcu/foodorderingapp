@@ -1,0 +1,8 @@
+admin,admin123,Administrator
+cust,123,Customer
+user3,456,Vendor
+diwas,diwas,Customer
+user,123,Vendor
+customer,123,Customer
+delivery,123,Delivery Runner
+

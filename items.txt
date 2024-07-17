@@ -1,0 +1,4 @@
+1,momo,100.0,user,C:\Users\HP\java\images\momo.png
+2,coldrinks,100.0,user,C:\Users\HP\java\images\coldrinks.png
+3,Burger,190.0,user,C:\Users\HP\java\images\burger.png
+4,pasta,250.0,vendor1,C:\Users\HP\java\images\pasta.png
