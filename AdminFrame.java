@@ -18,7 +18,7 @@ public class AdminFrame extends JFrame {
 
     private void initializeUI() {
         setTitle("Administrator Interface");
-        setSize(800, 1000); // Adjusted size of the frame
+        setSize(800, 1000); // Adjusted size of the frame okk
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 

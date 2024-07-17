@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FoodOrderingSystem",
+            "request": "launch",
+            "mainClass": "FoodOrderingSystem",
+            "projectName": "foodorderingapp_ba7e2e89"
+        },
+        {
+            "type": "java",
             "name": "DeliveryRunnerFrame",
             "request": "launch",
             "mainClass": "DeliveryRunnerFrame",
